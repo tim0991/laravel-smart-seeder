@@ -1,0 +1,11 @@
+{
+    "name": "tim0991/laravel-smart-seeder",
+    "type": "library",
+    "authors": [
+        {
+            "name": "tim",
+            "email": "tim0991@qq.com"
+        }
+    ],
+    "require": {}
+}
